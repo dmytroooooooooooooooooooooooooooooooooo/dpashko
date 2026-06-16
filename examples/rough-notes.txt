@@ -1,0 +1,5 @@
+need to clean this repo
+make readme better
+explain how api credits are used
+add some examples maybe changelog generator
+make sure it runs without api key

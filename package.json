@@ -1,0 +1,26 @@
+{
+  "name": "project-toolkit",
+  "version": "0.1.0",
+  "description": "A lightweight experimental toolkit for AI-assisted project documentation and workflow cleanup.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "docs": "node src/index.js --docs",
+    "test": "node --test"
+  },
+  "keywords": [
+    "workflow",
+    "documentation",
+    "automation",
+    "ai",
+    "toolkit"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.56.0"
+  },
+  "devDependencies": {}
+}
